@@ -2,3 +2,4 @@
 20 A = 71
 30 B = Sqr(A)
 40 Print B
+50 End

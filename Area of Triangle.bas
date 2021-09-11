@@ -6,3 +6,4 @@ Rem : Fourmula : (Area = 1/2 x BxH.
 30 H = 20
 40 Area = 1 / 2 * B * H
 50 Print Area
+60 End

@@ -4,3 +4,4 @@ Rem fourmula D = 2 * R
 10 Cls
 20 R = 10
 30 D = 2 * R
+40 Print D

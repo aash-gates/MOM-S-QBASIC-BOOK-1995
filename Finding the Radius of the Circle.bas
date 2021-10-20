@@ -4,5 +4,6 @@ Rem Fourmula : r=d/2
 10 Cls
 30 d = 2 * r
 20 d = 50
+30 r = d / 2
 50 End
 

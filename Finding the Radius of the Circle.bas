@@ -5,5 +5,6 @@ Rem Fourmula : r=d/2
 30 d = 2 * r
 20 d = 50
 30 r = d / 2
+40 Print r
 50 End
 

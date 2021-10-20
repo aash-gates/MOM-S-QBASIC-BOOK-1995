@@ -3,3 +3,4 @@ Rem Fourmula : r=d/2
 
 10 Cls
 20 r = 10
+30 d = 2 * r

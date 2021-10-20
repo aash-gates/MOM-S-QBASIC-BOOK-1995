@@ -5,3 +5,4 @@ y = 101
 z = 79
 
 Print x
+Print y

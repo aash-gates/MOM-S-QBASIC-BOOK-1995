@@ -6,3 +6,4 @@ z = 79
 
 Print x
 Print y
+Print z

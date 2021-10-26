@@ -5,3 +5,4 @@ Rem fourmula D = 2 * R
 20 R = 10
 30 D = 2 * R
 40 Print D
+50 End
